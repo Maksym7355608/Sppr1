@@ -1,0 +1,15 @@
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\bin\Debug\net7.0\SPPR_L1.exe
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\bin\Debug\net7.0\SPPR_L1.deps.json
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\bin\Debug\net7.0\SPPR_L1.runtimeconfig.json
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\bin\Debug\net7.0\SPPR_L1.dll
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\bin\Debug\net7.0\SPPR_L1.pdb
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.csproj.AssemblyReference.cache
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.AssemblyInfoInputs.cache
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.AssemblyInfo.cs
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.dll
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\refint\SPPR_L1.dll
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.pdb
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\SPPR_L1.genruntimeconfig.cache
+C:\Users\mmajo\RiderProjects\SPPR_L1\SPPR_L1\obj\Debug\net7.0\ref\SPPR_L1.dll
